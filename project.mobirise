@@ -11,7 +11,7 @@
     "uniqCompNum": 19,
     "versionPublish": "3.9.2",
     "publishType": "github",
-    "publishPath": "",
+    "publishPath": "file:///C:/Users/Windows/Desktop/Nova%20pasta%20(3)",
     "ftpLocation": "ftp://@:21",
     "publishFtpPath": ""
   },
@@ -63,7 +63,7 @@
           },
           "title": "",
           "text": "<br><br><br><br><br><br><br><br><br><br>Ola seja bem vindo ao nosso site<br>",
-          "buttons": "  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp; Nosso formulario</a> "
+          "buttons": "  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"hnjiy\" data-toolbar=\"-mbrBtnMove\">&nbsp; Nosso formulario</a> "
         },
         {
           "_tags": [
@@ -120,7 +120,7 @@
           "title5": "",
           "currency5": "",
           "price5": "",
-          "period5": "per month",
+          "period5": "Reais",
           "list5": "<ul><li></li></ul>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">COMPRAR</a>"
         },
@@ -153,7 +153,7 @@
             "fields": {
               "name": {
                 "title": "Name",
-                "visible": false,
+                "visible": true,
                 "customTitle": "Name*"
               },
               "email": {
@@ -192,7 +192,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;site criado por JoaoWA"
+          "text": "site criado por JoaoWA"
         }
       ]
     }
