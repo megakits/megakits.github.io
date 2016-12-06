@@ -1,0 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+#header1-a P {
+  text-align: left;
+}
+#header1-a .btn {
+  font-family: 'Oswald', sans-serif;
+}
